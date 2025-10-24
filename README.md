@@ -1,4 +1,4 @@
-B2B (Business to Business): Amazon Business, Alibaba
+##B2B (Business to Business): Amazon Business
 
 Key Features of E-Commerce Platforms
 
